@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @cloverspark,
--  I’m interested in game development and game modling 
--  I’m currently learning code in java, java script and c#.
+-  My name is Alexander Brenna, I go by Alex
+-  I’m interested in game field or app development
+-   
+-  I’m currently learning Java, Java Script, React, Python, HTML, CSS and C#.
 -  I'm currently a full time college student working towards my degree.
 
 <!---
